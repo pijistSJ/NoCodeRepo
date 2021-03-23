@@ -1,0 +1,16 @@
+DAY 1
+23-03-2021
+It is the first day, I am starting this. this is completely personal and informal, in up-coming sessions , i am literally going to dump everything I find related to programming meanwhile my studies or something, so that i can look upto it whenever i am free.
+
+I started programming in about may-june 2020, i started with python and gradually leaned many things in my way, however there are many good Youtube channels and many more resources to learn python , but once again whatever i say here is solely related to me and my personal journey into the programming, so there might be many instances where i may not be quoting some of the best channels or resources just simply because i have not stumbled upon those meanwhile my journey.
+
+Right now, I am from scintific community and work with Python and R. I am still learning R and Python daily. 
+
+from now on this post will have two sections;
+BASIC
+and
+TODAY I FOUND..
+
+BASIC will be majorly comprising of some discussions and will look like paragraph structure
+TODAY I FOUND.. section will be just simple description with links
+
