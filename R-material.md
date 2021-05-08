@@ -13,3 +13,9 @@
 [Learn how to program in R by Johns Hopkins University](https://youtube.com/playlist?list=PLVext98k2evi8mDNRo4MwIgVgSmwM3cS8)
 
 [David Langer](https://youtube.com/playlist?list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF)
+
+[NPTEL](https://youtube.com/playlist?list=PLJ5C_6qdAvBFfF7qtFi8Pv_RK8x55jsUQ)
+
+[360DigiTMG](https://youtube.com/playlist?list=PLNLDEHOJTZSiMVmEmf_7DztHSCTL3mDPi)
+
+[PK tutorials](https://youtube.com/playlist?list=PLMf0T7wKM6BwWuh4xIA70s8dL16X3DiYn)
