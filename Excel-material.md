@@ -5,3 +5,7 @@
 [Chandoo's youtube channel](https://www.youtube.com/channel/UC8uU_wruBMHeeRma49dtZKA)
 
 [Chandoo's website](https://chandoo.org/)
+
+[David Langer](https://youtube.com/playlist?list=PLTJTBoU5HOCRFQhfU1gg2ciNpS_evWKR7)
+
+[David Langer](https://youtube.com/playlist?list=PLTJTBoU5HOCSrExoOVTjDG33lFpDvmz2w)
